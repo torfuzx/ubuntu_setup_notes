@@ -1,2 +1,2 @@
-ubuntu-notes
+Ubuntu Notes
 ============
