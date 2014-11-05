@@ -19,3 +19,9 @@ Inconsolata
 sudo apt-get install fonts-inconsolata
 ```
 
+Monaco
+------
+
+```
+curl -kL https://raw.github.com/cstrap/monaco-font/master/install-font-ubuntu.sh | bash
+```
