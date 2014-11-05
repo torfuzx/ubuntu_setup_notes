@@ -10,3 +10,12 @@ mkdir -p ~/.fonts
 cp SourceCodePro_FontsOnly-1.017/OTF/*.otf ~/.fonts
 fc-cache -f -v
 ```
+
+
+Inconsolata
+-----------
+
+```
+sudo apt-get install fonts-inconsolata
+```
+
