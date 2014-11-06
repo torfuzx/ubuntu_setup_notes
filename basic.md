@@ -11,3 +11,5 @@
     # Monitor
     sudo apt-get install -y htop
     
+    # Ubuntu Restricted Extras
+    sudo apt-get install ubuntu-restricted-extras
