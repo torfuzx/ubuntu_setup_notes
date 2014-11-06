@@ -25,3 +25,14 @@ Monaco
 ```
 curl -kL https://raw.github.com/cstrap/monaco-font/master/install-font-ubuntu.sh | bash
 ```
+
+
+Microsoft Yahei
+---------------
+
+```
+  wget -O get-fonts.sh.zip http://files.cnblogs.com/DengYangjun/get-fonts.sh.zip
+  unzip -o get-fonts.sh.zip 1>/dev/null
+  chmod a+x get-fonts.sh
+  ./get-fonts.sh
+```
