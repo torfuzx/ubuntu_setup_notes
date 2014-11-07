@@ -18,3 +18,8 @@ Here list some packages that are needed sooner or later:
     
     # Ubuntu Restricted Extras
     sudo apt-get install ubuntu-restricted-extras
+    
+    # Terminator
+    sudo apt-get install terminator 
+    
+    
