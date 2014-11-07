@@ -27,14 +27,14 @@ Go Tools
 --------
 
 
-### [goimports](https://github.com/bradfitz/goimports)
+1. [goimports](https://github.com/bradfitz/goimports)
 
     go get code.google.com/p/go.tools/cmd/goimports
 
-### [gocode](github.com/nsf/gocode)
+2. [gocode](github.com/nsf/gocode)
 
     go get -u github.com/nsf/gocode
   
-###[golint](github.com/golang/lint)
+3. [golint](github.com/golang/lint)
 
     go get github.com/golang/lint/golint
