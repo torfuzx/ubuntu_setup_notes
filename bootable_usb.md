@@ -1,3 +1,7 @@
+Create Ubuntu Bootable USB 
+--------------------------
+
+
 hdiutil convert -format UDRW -o ~/path/to/target.img ~/path/to/ubuntu.iso
 
 diskutil unmountDisk /dev/diskN
