@@ -1,6 +1,16 @@
+1. First download eclipse from the official site and download it. 
 
+
+2. Move it to /opt directory
+
+
+3. Make the eclipse easier to access 
+
+    ```
     vim /usr/share/applications/eclipse.desktop
+    ```
     
+    Add the following lines to `eclipse.desktop`
     
     ```
     [Desktop Entry]
