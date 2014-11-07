@@ -1,8 +1,9 @@
+Here list some packages that are needed sooner or later:
 
 
     # Download Utils
     sudo apt-get install -y curl 
-    sudo apt-get install -y curl
+    sudo apt-get install -y wget
     
     # Version Control
     sudo apt-get install -y git
