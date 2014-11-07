@@ -8,6 +8,7 @@ Here list some packages that are needed sooner or later:
     # Version Control
     sudo apt-get install -y git
     sudo apt-get install -y mercuria
+    sudo apt-get install -y colordiff  
     
     # Monitor
     sudo apt-get install -y htop
