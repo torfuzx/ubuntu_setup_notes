@@ -1,7 +1,7 @@
 
 
 ```
-sudo apt-get install fcitx-table-wbpy
+sudo apt-get install fcitx-table-wbpy -y
 ```
 
 
