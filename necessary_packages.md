@@ -1,6 +1,9 @@
 Here list some packages that are needed sooner or later:
 
-
+    
+    # Vim
+    sudo apt-get install vim 
+    
     # Download Utils
     sudo apt-get install -y curl 
     sudo apt-get install -y wget
