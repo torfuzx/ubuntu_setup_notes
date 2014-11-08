@@ -44,3 +44,8 @@ Go Tools
     ```
     go get github.com/golang/lint/golint
     ```
+4. [gooracle](https://docs.google.com/document/d/1SLk36YRjjMgKqe490mSRzOPYEDe0Y_WQNRv-EiFYUyw/view?pli=1)
+
+    ```
+    go get code.google.com/p/go.tools/cmd/oracle
+    ```
