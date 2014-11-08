@@ -18,7 +18,7 @@ Installing go
 
     ```
     echo "export GOPATH='~/gopath'" >> ~/.bashrc
-    echo "export PATH=$PATH:$GOPATH/bin" >> ~/.bashrc
+    echo "export PATH=$PATH:/usr/local/go/bin/:$GOPATH/bin" >> ~/.bashrc
     # flush the change
     source ~/.bashrc
     ```
