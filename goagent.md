@@ -18,7 +18,9 @@ cd goagent目录/local
 
 vim proxy.ini
 ```
-chromium安装SwitchySharp.crx。该文件在goagent目录/local下有
+chromium安装SwitchySharp.crx
+
+该文件在goagent目录/local下有
 
 在SwitchySharp.crx中导入SwitchyOptions.bak备份
 
