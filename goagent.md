@@ -1,12 +1,13 @@
-#download URL
+download URL
+```
 http://git.io/goa
-
-#解压zip 
-
+```
+解压zip 
+```
 cd goagent目录/local
 
 python proxy.py
-
+```
 #另起终端
 cd goagent目录/server
 
