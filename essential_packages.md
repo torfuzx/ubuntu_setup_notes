@@ -22,4 +22,5 @@ Here list some packages that are needed sooner or later:
     # Terminator
     sudo apt-get install terminator 
     
-    
+    # Tree
+    sudo apt-get install tree 
