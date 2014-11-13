@@ -10,8 +10,8 @@ sudo apt-get install openjdk-7-jre-headless -y
 ### Check http://www.elasticsearch.org/download/ for latest version of ElasticSearch and replace wget link below
 
 ```
-wget https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.3.1.deb
-sudo dpkg -i elasticsearch-1.3.1.deb
+wget https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.4.0.deb
+sudo dpkg -i elasticsearch-1.4.0.deb
 ```
 
 ### Install the Java Service Wrapper for ElasticSearch
@@ -50,6 +50,6 @@ curl http://localhost:9200
 }
 ```
 
-### References:
+### Adapted from:
 
 https://gist.github.com/ricardo-rossi/8265589463915837429d
