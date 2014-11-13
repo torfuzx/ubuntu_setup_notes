@@ -31,7 +31,10 @@ sudo ln -s `readlink -f /usr/local/share/elasticsearch/bin/service/elasticsearch
 sudo service elasticsearch start
 ```
 ### Make sure service is running
+
+```
 curl http://localhost:9200
+```
  
 ### Should return something like this:
 
