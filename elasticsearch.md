@@ -7,7 +7,8 @@ sudo apt-get install openjdk-7-jre-headless -y
 ```
  
 ### Download and Install ElasticSearch
-### Check http://www.elasticsearch.org/download/ for latest version of ElasticSearch and replace wget link below
+
+Check http://www.elasticsearch.org/download/ for latest version of ElasticSearch and replace wget link below
 
 ```
 wget https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.4.0.deb
