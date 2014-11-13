@@ -24,3 +24,6 @@ Here list some packages that are needed sooner or later:
     
     # Tree
     sudo apt-get install tree 
+    
+    # Flash
+    sudo apt-get install pepperflashplugin-nonfree
